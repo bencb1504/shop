@@ -111,7 +111,5 @@
   </div>
 @endsection
 @section('web.script')
-<script type="text/javascript">
 
-</script>
 @endsection
